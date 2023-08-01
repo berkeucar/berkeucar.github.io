@@ -19,9 +19,9 @@ linkedin: https://www.linkedin.com/in/berke-ucar-694483204/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/HeadPhoto.png
-favicon: ./assets/img/HeadPhoto.png
-favicon_dark: ./assets/img/HeadPhoto.png
+avatar: ./assets/img/HeadPhoto.jpg
+favicon: ./assets/img/HeadPhoto.jpg
+favicon_dark: ./assets/img/HeadPhoto.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
