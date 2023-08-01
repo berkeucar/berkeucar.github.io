@@ -11,7 +11,7 @@ I am a M.Sc. student at UBC, Vancouver working under the supervision of Dr. İna
 
 ## News
 
-- **[Sep. 2023]** I will be joining Bioinformatics Technology Lab (Birol Lab).
+- **[Sep. 2023]** I will be joining Bioinformatics Technology Lab (Birol Lab) [http://www.birollab.ca].
 
 
 {% include_relative _includes/publications.md %}
