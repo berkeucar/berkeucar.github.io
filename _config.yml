@@ -20,8 +20,8 @@ linkedin: https://www.linkedin.com/in/berke-ucar-694483204/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/HeadPhoto.jpg
-favicon: ./assets/img/HeadPhoto.jpg
-favicon_dark: ./assets/img/HeadPhoto.jpg
+favicon: .assets/img/UBC_Thunderbirds_Logo.svg.png
+favicon_dark: .assets/img/UBC_Thunderbirds_Logo.svg.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
