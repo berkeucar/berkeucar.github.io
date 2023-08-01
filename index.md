@@ -4,19 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a M.Sc. student at UBC, Vancouver working under the supervision of Dr. İnanç Birol. 
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** Deep Learning, Generative Models, Computational Biology applications
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2023]** I will be joining Bioinformatics Technology Lab (Birol Lab).
+
 
 {% include_relative _includes/publications.md %}
 
